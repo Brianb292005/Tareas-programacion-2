@@ -1,4 +1,4 @@
-En este apartado estaran las captures de lo solicitado aca:
+En este apartado estaran las captures correspondiente al laboratorio 1.1 de lo solicitado aca:
 
 ![alt text](image.png)
 
