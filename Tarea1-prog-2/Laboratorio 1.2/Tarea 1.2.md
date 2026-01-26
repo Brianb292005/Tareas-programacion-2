@@ -1,4 +1,6 @@
-En este apartado estaran las captures correspondiente al laboratorio 1.2 de lo solicitado aca:
+# Tarea 1.2
+
+En este apartado estaran las captures correspondiente al laboratorio 1.1 de lo solicitado aca:
 
 ![alt text](image.png)
 
@@ -19,4 +21,3 @@ Diferencia entre scripts y modo interactivo:
 En mi opinion es super facil en scripts en este caso para ejecutar codigo python necesitamos un entorno de trabajo como vs code y archivos para que codigo pueda ejecutarse.
 
 Sin embargo en el modo interactivo es mas directo ya que se ejecuta directamente en la terminal, obviamente dentro del interactivo de python.
-
