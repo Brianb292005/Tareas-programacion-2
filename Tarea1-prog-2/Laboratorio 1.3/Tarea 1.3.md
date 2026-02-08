@@ -15,4 +15,3 @@ Inspeccionar funciones integradas:
 Uso del interprete como calculadora:
 
 ![alt text](image-3.png).
- 
