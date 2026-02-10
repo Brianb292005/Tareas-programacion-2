@@ -11,7 +11,7 @@ else:
     
     si = "si"
 
-    if Registro == si:
+    while Registro == si:
         
       correo = input("Por favor, ingresa tu correo electrónico: ")
       nombre = input("Por favor, ingresa tu nombre: ")
