@@ -25,7 +25,7 @@ def registrar_cliente():
         apellidos = ""
         print("No hay problema. Puedes seguir explorando nuestra tienda sin registrarte.")
     
-    return nombre, apellidos
+    return correo, nombre, apellidos
 
 
 def mostrar_catalogo():
