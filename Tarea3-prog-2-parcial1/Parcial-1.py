@@ -144,7 +144,7 @@ def mostrar_ticket(nombre, apellidos, edad, carrito, total_items, subtotal_total
     
     # Ticket final
     print("" + "="*60)
-    print("TICKET DE COMPRA - BRIANFITNESS")
+    print("TICKET DE COMPRA - Brianfitness")
     print("="*60)
     print(f"Cliente: {nombre.upper()} {apellidos.upper()}")
     print(f"Edad: {edad} años")
