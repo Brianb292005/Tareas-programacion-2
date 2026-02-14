@@ -9,8 +9,7 @@ def verificar_edad():
     else:
         print("¡Gracias por ingresar tu edad! Ahora puedes explorar nuestra amplia gama de suplementos de salud y bienestar.")
         return edad
-
-
+    
 def registrar_cliente():
     """Registrar o pedir datos básicos del cliente"""
     registro = input("\n¿Deseas registrarte para recibir ofertas exclusivas? si/no: ").lower()
