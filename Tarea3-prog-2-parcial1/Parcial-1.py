@@ -20,6 +20,7 @@ def registrar_cliente():
         apellidos = input("Por favor, ingresa tus apellidos: ")
         print("¡Gracias por registrarte! Ahora recibirás ofertas exclusivas y novedades sobre nuestros productos.")
     else:
+        correo = ""
         nombre = input("Por favor, ingresa tu nombre para continuar: ")
         apellidos = ""
         print("No hay problema. Puedes seguir explorando nuestra tienda sin registrarte.")
@@ -164,7 +165,7 @@ def main():
         return  # Salir si es menor de edad
     
     # Registrar cliente
-    nombre, apellidos = registrar_cliente()
+    correo, nombre, apellidos = registrar_cliente()
     
     # Mostrar catálogo
     productos = mostrar_catalogo()
