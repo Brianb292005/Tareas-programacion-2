@@ -1,6 +1,0 @@
-print("hola brian   ")
-
-
-
-
-
